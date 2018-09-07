@@ -22,6 +22,8 @@
 ##### equals
 [java中如何实现一个优美的equals方法](https://www.cnblogs.com/blackckat-hm/p/3814917.html)
 
+## JVM
+[Java程序内存分析：使用mat工具分析内存占用](https://www.cnblogs.com/AloneSword/p/3821569.html)
 
 ## NoSQL
 * [redis单例、主从模式、sentinel以及集群的配置方式及优缺点对比](https://blog.csdn.net/keketrtr/article/details/78802571)
