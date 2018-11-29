@@ -33,6 +33,7 @@
 ## SpringBoot
 * [springboot之启动原理解析](https://www.cnblogs.com/shamo89/p/8184960.html)
 * [Spring Boot干货系列：（三）启动原理解析](http://tengj.top/2017/03/09/springboot3/)
+* [Spring HttpMessageConverter的作用及替换解析](https://www.jb51.net/article/134588.htm)
 
 ## 算法
 * [一亿数据获取前100个最大值(基于最小堆和Quicksort)](https://blog.csdn.net/beiyetengqing/article/details/8011792)
